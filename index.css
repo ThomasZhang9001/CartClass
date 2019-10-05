@@ -1,0 +1,14 @@
+table{
+    border: black 1px solid;
+}
+
+th, td{
+    border: darkgray 1px solid;
+    padding: 3px;
+}
+
+.td_empty{
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+}
